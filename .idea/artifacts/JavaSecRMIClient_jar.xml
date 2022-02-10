@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaSecRMIClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaSecRMIClient_jar</output-path>
+    <root id="archive" name="JavaSecRMIClient.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaSecRMIClient" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
